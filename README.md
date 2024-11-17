@@ -1,7 +1,6 @@
-# FetchIt
+# F-Grab
 
-FetchIt is an Android application designed to download media files from various platforms. Users can enter a URL, select a file location, and start the download process.
-
+F-Grab is a Flutter fork of the android application FetchIt.
 <img src="https://github.com/tharunbirla/FetchIt/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png?raw=true" alt="FetchIt Screenshot" width="300" height="600">
 
 [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
